@@ -24,4 +24,3 @@ function Tabs (txt) {
     return div
 }
 
-s)
