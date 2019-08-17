@@ -30,26 +30,36 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM (Document Object Model) is HTML inside the browser that makes up a webpage or website. It cannot be permanently changed inside the browser, meaning you can make changes until you refresh the page.
+
 2. What is an event?
+
+An event is something that happens to the DOM. It can handle interactions of the user with the webpage. 
 
 3. What is an event listener?
 
+Event Listeners create events and handles them like when a button is clicked or when an alert pops up.
+
 4. Why would we convert a NodeList into an Array?
 
+We convert a NodeList to an Array in order to use array methods like `.forEach()` and `.map()`
+
 5. What is a component?
+
+A component is a reusable piece of code that makes our code easier to read and more dynamic.
 
 ### Git Set up
 
 * [x] Fork the project into your GitHub user account
 * [x] Clone the forked project into a directory on your machine
-* [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+* [x] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
 * [x] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
 
 Your finished project must include all of the following requirements:
 
-* [ ] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
+* [x] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
 
 * [ ] Following the instructions in the `Header/index.js` file, create the Header component. 
 
